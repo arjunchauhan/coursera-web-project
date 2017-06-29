@@ -1,0 +1,25 @@
+{
+  "name": "conFusion",
+  "homepage": "https://github.com/arjunchauhan/coursera-web-project",
+  "authors": [
+    "Arjun chauhan <a.arjunchauhan15@gmail.com>"
+  ],
+  "description": "website for restraunt",
+  "main": "index.html",
+  "keywords": [
+    "conFusion",
+    "Fusion"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "font-awesome": "^4.7.0"
+  }
+}
